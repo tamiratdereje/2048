@@ -14,7 +14,7 @@ new_grid = [[0, 0, 0, 0],
             [0, 0, 0, 0],
             [0, 0, 0, 0],
             [0, 0, 0, 0]]
-
+# what jdsg
 i = random.randint(0, 3)
 j = random.randint(0, 3)
 
