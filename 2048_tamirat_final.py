@@ -1,3 +1,5 @@
+# sup man
+
 import random
 # the module to give random number
 import numpy as np
